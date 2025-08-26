@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# CaseStudy2024
+# GearDoll
 =======
 🎮 特徴
 
