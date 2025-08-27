@@ -1,0 +1,9 @@
+# Visual Studio関連のファイルを除外
+.vs/
+*.sln.Ghost
+
+# ビルド結果のフォルダを除外
+x64/
+
+# ユーザー固有のファイルを除外
+*.vcxproj.user
