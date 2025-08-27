@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# HEW_Project.Elegant_GearDoll_ver1.00
- 
+
 =======
 <<<<<<< HEAD
 # GearDoll
@@ -59,5 +57,5 @@ Windows環境で実行可能（DirectX 11対応）
 手紙を集める条件を追加してゲーム性を強化
 
 HLSLで演出や色の表現を工夫し、ゲーム体験を豊かに
->>>>>>> origin/main
+
 >>>>>>> origin/main
