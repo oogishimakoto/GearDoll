@@ -1,3 +1,4 @@
+script保存先：GearDoll/20220520Porigon/
 
 =======
 # GearDoll
